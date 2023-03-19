@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">College admin app</string>
+    <string name="coll">Project Name</string>
+    <string name="row1Name">Project Name</string>
+    <string name="row1des">Project Description</string>
+    <string name="row1falname">Faculty Name</string>
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="register">Register</string>
+    <string name="Fac_name">Faculty Name</string>
+    <string name="Fac_id">Faculty id</string>
+    <string name="click_to_login">Click to Login.</string>
+    <string name="click_to_register">Click to Register</string>
+    <string name="project_list">Project List</string>
+</resources>

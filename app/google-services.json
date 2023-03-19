@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "426122647526",
+    "project_id": "project-allocation-fireb-f2c0b",
+    "storage_bucket": "project-allocation-fireb-f2c0b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:426122647526:android:e9da2730986ff3efe36827",
+        "android_client_info": {
+          "package_name": "com.ishan.collegeadminapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "426122647526-ctfu8amar0k7o93vikkne23373rev4rp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0mcSGyWGHScGmefvqzzp0Aju-mDWlIn0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "426122647526-ctfu8amar0k7o93vikkne23373rev4rp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
